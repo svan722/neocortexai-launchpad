@@ -33059,32 +33059,32 @@ Read more: https://wagmi.sh/core/providers/jsonRpc`);
                                         children: [
                                           (0, N.jsx)("a", {
                                             className: L().navItems,
-                                            href: "/Launchpad",
+                                            href: "/launchpad",
                                             onClick: i,
                                             style: G.secondaryFont.style,
                                             children: "Launchpad",
                                           }),
                                           (0, N.jsx)("a", {
                                             className: L().navItems,
-                                            href: "/Swap",
+                                            href: "/swap",
                                             style: G.secondaryFont.style,
                                             children: "Swap",
                                           }),
                                   (0, N.jsx)("a", {
                                             className: L().navItems,
-                                            href: "/Vesting",
+                                            href: "/vesting",
                                             style: G.secondaryFont.style,
                                             children: "Vesting",
                                           }),
                                           (0, N.jsx)("a", {
                                             className: L().navItems,
-                                            href: "/Stake",
+                                            href: "/stake",
                                             style: G.secondaryFont.style,
                                             children: "Staking",
                                           }),
                                           (0, N.jsx)("a", {
                                             className: L().navItems,
-                                            href: "/Mint",
+                                            href: "/mint",
                                             style: G.secondaryFont.style,
                                             children: "Mint PNFTs",
                                           }),
@@ -33546,7 +33546,7 @@ Read more: https://wagmi.sh/core/providers/jsonRpc`);
                                             children: [
                                               (0, N.jsx)("a", {
                                                 className: L().navItems,
-                                                href: "/Launchpad",
+                                                href: "/launchpad",
                                                 onClick: i,
                                                 style: G.secondaryFont.style,
                                                 children: "Launchpad",
@@ -33576,7 +33576,7 @@ Read more: https://wagmi.sh/core/providers/jsonRpc`);
                                                         className:
                                                           L()
                                                             .navDropdownItemInner,
-                                                        href: "/Swap",
+                                                        href: "/swap",
                                                         style:
                                                           G.secondaryFont.style,
                                                         children: "Swap ",
@@ -33587,13 +33587,13 @@ Read more: https://wagmi.sh/core/providers/jsonRpc`);
                                               }),
                                               (0, N.jsx)("a", {
                                                 className: L().navItems,
-                                                href: "/Stake",
+                                                href: "/stake",
                                                 style: G.secondaryFont.style,
                                                 children: "Staking",
                                               }),
                                               (0, N.jsx)("a", {
                                                 className: L().navItems,
-                                                href: "/Mint",
+                                                href: "/mint",
                                                 style: G.secondaryFont.style,
                                                 children: "Mint PNFTs",
                                               }),
