@@ -436,7 +436,7 @@
                   (0, s.jsxs)("section", {
                     children: [
                       (0, s.jsx)(j(), {
-                        src: "../assets/logosm.webp",
+                        src: "logosm.webp",
                         width: 90,
                         height: 90,
                         alt: "logosm",
