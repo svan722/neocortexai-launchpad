@@ -32701,7 +32701,7 @@ Read more: https://wagmi.sh/core/providers/jsonRpc`);
                                 children: [
                                   (0, N.jsxs)("a", {
                                     className: L().logo,
-                                    href: "https://neocortexai.xyz",
+                                    href: "/",
                                     rel: "norefferer",
                                     target: "_blank",
                                     children: [
@@ -33119,7 +33119,7 @@ Read more: https://wagmi.sh/core/providers/jsonRpc`);
                                       children: [
                                         (0, N.jsxs)("a", {
                                           className: L().logo,
-                                          href: "https://neocortexai.xyz",
+                                          href: "/",
                                           rel: "norefferer",
                                           target: "_blank",
                                           children: [
