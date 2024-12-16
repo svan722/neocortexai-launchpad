@@ -590,7 +590,7 @@
     1686: function (e) {
       "use strict";
       e.exports = JSON.parse(
-        '[{"Id":1,"Name":"iNFT #1","Image":"/IndexNFT.webp","EndDate":"2023-09-07T11:00:00+00:00"}]'
+        '[{"Id":1,"Name":"iNFT #1","Image":"IndexNFT.webp","EndDate":"2023-09-07T11:00:00+00:00"}]'
       );
     },
   },
